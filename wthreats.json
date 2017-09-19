@@ -302,13 +302,13 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -116.872,
-          45.2242,
+          "-116.872",
+          "45.2242",
           1477.88
         ]
       },
       "properties": {
-        "threatName": "Harl Butte Wolf Pack Killing Proposal",
+        "threatName": "Harl Butte Wolf Pack Killing Proposal BAD BAD",
         "threatType": "wildlifeeradication",
         "threatDescription": "Gray wolves are listed as “endangered” under the Oregon Endangered Species Act. The law requires the Oregon Department of Fish and Wildlife (ODFW) to conserve the species in the state. However, the agency has already killed four members of the Harl Butte Wolf Pack, in response to requests from the livestock industry, thus negatively impacting the recovery of this magnificent animal.",
         "threatImgUrl": "http://www.oregonwild.org/sites/default/files/wildlife/harl_butte_wolf.jpg",
