@@ -280,7 +280,7 @@
       "properties": {
         "threatName": "Summit Off Road Vehicle Proposal",
         "threatType": "roads",
-        "threatDescription": "The Ochoco Mountains of Central Oregon are home to giant pine trees, rare trout, sparkling streams, wildflower meadows, and abundant wildlife habitat. Unfortunately, the Forest Service has unveiled a plan that opens up 135 new miles of ATV and other off-highway vehicle routes over 301,000 acres within a conservation proposal for a National Recreation Area. These forests, streams, and wildlife are natural treasures that deserve permanent protection, not more ATVs ripping up the area, causing harmful ecological impacts.\n\n<script>alert('hey');</script>",
+        "threatDescription": "The Ochoco Mountains of Central Oregon are home to giant pine trees, rare trout, sparkling streams, wildflower meadows, and abundant wildlife habitat. Unfortunately, the Forest Service has unveiled a plan that opens up 135 new miles of ATV and other off-highway vehicle routes over 301,000 acres within a conservation proposal for a National Recreation Area. These forests, streams, and wildlife are natural treasures that deserve permanent protection, not more ATVs ripping up the area, causing harmful ecological impacts.",
         "threatImgUrl": "http://www.oregonwild.org/sites/default/files/summit_ohv_map.jpg",
         "threatImgCredit": "Oregon Wild",
         "threatUrlReferences": [
