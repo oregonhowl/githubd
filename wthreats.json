@@ -352,13 +352,32 @@
         "threatDescription": "this is a test description",
         "threatImgUrl": "",
         "threatImgCredit": "",
-        "threatUrlReferences": []
+        "threatUrlReferences": [],
+        "marker-color": "#935116",
+        "marker-symbol": "logging"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           "-119.1234",
           "43.1983"
+        ]
+      }
+    },
+    {
+      "properties": {
+        "threatName": "Another test",
+        "threatType": "logging",
+        "threatDescription": "xyz",
+        "threatImgUrl": "",
+        "threatImgCredit": "",
+        "threatUrlReferences": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-118.7807",
+          "43.3272"
         ]
       }
     }
