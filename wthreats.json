@@ -64,8 +64,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.2964,
-          43.3182
+          "-122.2964",
+          "43.3182"
         ]
       },
       "properties": {
@@ -81,7 +81,7 @@
           },
           {
             "url": "http://www.oregonwild.org/about/press/judge-says-timber-sale-crater-lake%E2%80%99s-back-yard-could-harm-wildlife-orders-study",
-            "urlTitle": "Judge says timber sale in Crater LakeÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs back yard could harm wildlife, orders study"
+            "urlTitle": "Judge says timber sale in Crater Lake's back yard could harm wildlife, orders study"
           }
         ],
         "marker-color": "#935116",
