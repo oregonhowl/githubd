@@ -35,35 +35,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-121.861",
-          "45.6748"
-        ]
-      },
-      "properties": {
-        "threatName": "Nestlé Bottling Plant Proposal",
-        "threatType": "industrial",
-        "threatDescription": "In 2010, Nestlé Corporation proposed building a spring water bottling plant in Cascade Locks, Oregon. The plant would bottle water from Oxbow Springs, using plastic bottles. In May, 2016, Hood River County passed a ballot measure that blocks Nestlé from building the bottling plan. Despite the vote results, Nestlé is continuing to pursue building this water bottling facility in the Columbia River Gorge, near the Mark O. Hatfield Wilderness area.",
-        "threatImgUrl": "https://keepnestleout.files.wordpress.com/2011/03/katestuartspring.jpg",
-        "threatImgCredit": "Keep Nestlé Out of the Gorge Coalition",
-        "threatUrlReferences": [
-          {
-            "url": "https://keepnestleout.wordpress.com/",
-            "urlTitle": "Keep Nestlé Out Of The Gorge"
-          },
-          {
-            "url": "http://projects.oregonlive.com/bottled-water/",
-            "urlTitle": "From the source: Bottled water in the United States, OregonLive"
-          }
-        ],
-        "marker-color": "#5D6D7E",
-        "marker-symbol": "industrial"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -122.2964,
           43.3182
         ]
