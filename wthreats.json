@@ -344,6 +344,23 @@
         "marker-color": "#935116",
         "marker-symbol": "logging"
       }
+    },
+    {
+      "properties": {
+        "threatName": "State Corner",
+        "threatType": "logging",
+        "threatDescription": "This is just a test",
+        "threatImgUrl": "",
+        "threatImgCredit": "",
+        "threatUrlReferences": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-117.0506",
+          "42.0053"
+        ]
+      }
     }
   ]
 }
