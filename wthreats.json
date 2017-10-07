@@ -344,6 +344,23 @@
         "marker-color": "#935116",
         "marker-symbol": "logging"
       }
+    },
+    {
+      "properties": {
+        "threatName": "This is just a test",
+        "threatType": "logging",
+        "threatDescription": "this is a test description",
+        "threatImgUrl": "",
+        "threatImgCredit": "",
+        "threatUrlReferences": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.1234",
+          "43.1983"
+        ]
+      }
     }
   ]
 }
