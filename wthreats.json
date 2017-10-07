@@ -42,9 +42,9 @@
       "properties": {
         "threatName": "Nestle Bottling Plant Proposal",
         "threatType": "industrial",
-        "threatDescription": "In 2010, NestlÃ© Corporation proposed building a spring water bottling plant in Cascade Locks, Oregon. The plant would bottle water from Oxbow Springs, using plastic bottles. In May, 2016, Hood River County passed a ballot measure that blocks NestlÃ©'s from building the bottling plan. Despite the vote results, NestlÃ© is continuing to pursue building this water bottling facility in the Columbia River Gorge, near the Mark O. Hatfield Wilderness area.",
+        "threatDescription": "In 2010, NestlÃÂ© Corporation proposed building a spring water bottling plant in Cascade Locks, Oregon. The plant would bottle water from Oxbow Springs, using plastic bottles. In May, 2016, Hood River County passed a ballot measure that blocks NestlÃÂ©'s from building the bottling plan. Despite the vote results, NestlÃÂ© is continuing to pursue building this water bottling facility in the Columbia River Gorge, near the Mark O. Hatfield Wilderness area.",
         "threatImgUrl": "https://keepnestleout.files.wordpress.com/2011/03/katestuartspring.jpg",
-        "threatImgCredit": "Keep NestlÃ© Out of the Gorge Coalition",
+        "threatImgCredit": "Keep NestlÃÂ© Out of the Gorge Coalition",
         "threatUrlReferences": [
           {
             "url": "https://keepnestleout.wordpress.com/",
@@ -81,7 +81,7 @@
           },
           {
             "url": "http://www.oregonwild.org/about/press/judge-says-timber-sale-crater-lake%E2%80%99s-back-yard-could-harm-wildlife-orders-study",
-            "urlTitle": "Judge says timber sale in Crater Lakeâs back yard could harm wildlife, orders study"
+            "urlTitle": "Judge says timber sale in Crater LakeÃ¢ÂÂs back yard could harm wildlife, orders study"
           }
         ],
         "marker-color": "#935116",
@@ -98,7 +98,7 @@
         ]
       },
       "properties": {
-        "threatName": "Gap Logging Proposal - TEST",
+        "threatName": "Gap Logging Proposal",
         "threatType": "logging",
         "threatDescription": "Commercial logging and road building near the the Lookout Mountain proposed wilderness area in the Ochoco National Forest. Impacts include endangered wildlife habitat degradation and watershed degradation.",
         "threatImgUrl": "http://www.oregonwild.org/sites/default/files/ochoco_cover_photo_larry_olson.jpg",
@@ -241,7 +241,7 @@
       "properties": {
         "threatName": "Cascade-Siskiyou National Monument Review",
         "threatType": "policy",
-        "threatDescription": "The CascadeâSiskiyou National Monument was established in 2000 and expanded in 2017 with the purpose of protecting the remarkable biodiversity in this area of the Cascade Range in Southern Oregon and Northern California. The Trump Administration is currently reviewing the boundaries of several National Monuments. As a result, the Cascade-Siskiyou National Monument could be reduced in size, thus putting valuable biological resources at risk of degradation and permantent loss.",
+        "threatDescription": "The CascadeÃ¢ÂÂSiskiyou National Monument was established in 2000 and expanded in 2017 with the purpose of protecting the remarkable biodiversity in this area of the Cascade Range in Southern Oregon and Northern California. The Trump Administration is currently reviewing the boundaries of several National Monuments. As a result, the Cascade-Siskiyou National Monument could be reduced in size, thus putting valuable biological resources at risk of degradation and permantent loss.",
         "threatImgUrl": "https://static1.squarespace.com/static/5240c4e4e4b09577ccb58b07/5885646c1b10e356f53ec873/5885646c1b10e356f53ec877/1380839099998/Jenny_Creek2_CSNMimg12644e6937a4c02b5.jpg?format=750w",
         "threatImgCredit": "Friends of Cascade Siskiyou National Monument",
         "threatUrlReferences": [
@@ -299,7 +299,7 @@
       "properties": {
         "threatName": "Harl Butte Wolf Pack Killing Proposal",
         "threatType": "wildlifeeradication",
-        "threatDescription": "Gray wolves are listed as âendangeredâ under the Oregon Endangered Species Act. The law requires the Oregon Department of Fish and Wildlife (ODFW) to conserve the species in the state. However, the agency has already killed four members of the Harl Butte Wolf Pack, in response to requests from the livestock industry, thus negatively impacting the recovery of this magnificent animal.",
+        "threatDescription": "Gray wolves are listed as Ã¢ÂÂendangeredÃ¢ÂÂ under the Oregon Endangered Species Act. The law requires the Oregon Department of Fish and Wildlife (ODFW) to conserve the species in the state. However, the agency has already killed four members of the Harl Butte Wolf Pack, in response to requests from the livestock industry, thus negatively impacting the recovery of this magnificent animal.",
         "threatImgUrl": "http://www.oregonwild.org/sites/default/files/wildlife/harl_butte_wolf.jpg",
         "threatImgCredit": "Oregon Wild",
         "threatUrlReferences": [
