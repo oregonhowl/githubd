@@ -42,13 +42,13 @@
       "properties": {
         "threatName": "Nestle Bottling Plant Proposal",
         "threatType": "industrial",
-        "threatDescription": "In 2010, Nestlé Corporation proposed building a spring water bottling plant in Cascade Locks, Oregon. The plant would bottle water from Oxbow Springs, using plastic bottles. In May, 2016, Hood River County passed a ballot measure that blocks Nestlé from building the bottling plan. Despite the vote results, Nestlé is continuing to pursue building this water bottling facility in the Columbia River Gorge, near the Mark O. Hatfield Wilderness area.",
+        "threatDescription": "In 2010, NestlÃ© Corporation proposed building a spring water bottling plant in Cascade Locks, Oregon. The plant would bottle water from Oxbow Springs, using plastic bottles. In May, 2016, Hood River County passed a ballot measure that blocks NestlÃ© from building the bottling plan. Despite the vote results, NestlÃ© is continuing to pursue building this water bottling facility in the Columbia River Gorge, near the Mark O. Hatfield Wilderness area.",
         "threatImgUrl": "https://keepnestleout.files.wordpress.com/2011/03/katestuartspring.jpg",
-        "threatImgCredit": "Keep NestlÃ© Out of the Gorge Coalition",
+        "threatImgCredit": "Keep NestlÃÂ© Out of the Gorge Coalition",
         "threatUrlReferences": [
           {
             "url": "https://keepnestleout.wordpress.com/",
-            "urlTitle": "Keep NestlÃ© Out Of The Gorge"
+            "urlTitle": "Keep NestlÃÂ© Out Of The Gorge"
           },
           {
             "url": "http://projects.oregonlive.com/bottled-water/",
@@ -81,7 +81,7 @@
           },
           {
             "url": "http://www.oregonwild.org/about/press/judge-says-timber-sale-crater-lake%E2%80%99s-back-yard-could-harm-wildlife-orders-study",
-            "urlTitle": "Judge says timber sale in Crater LakeÃÂÃÂ¢ÃÂÃÂÃÂÃÂs back yard could harm wildlife, orders study"
+            "urlTitle": "Judge says timber sale in Crater LakeÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂs back yard could harm wildlife, orders study"
           }
         ],
         "marker-color": "#935116",
@@ -234,14 +234,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -122.6295,
-          42.26
+          "-122.6295",
+          "42.26"
         ]
       },
       "properties": {
         "threatName": "Cascade-Siskiyou National Monument Review",
         "threatType": "policy",
-        "threatDescription": "The CascadeÃÂÃÂ¢ÃÂÃÂÃÂÃÂSiskiyou National Monument was established in 2000 and expanded in 2017 with the purpose of protecting the remarkable biodiversity in this area of the Cascade Range in Southern Oregon and Northern California. The Trump Administration is currently reviewing the boundaries of several National Monuments. As a result, the Cascade-Siskiyou National Monument could be reduced in size, thus putting valuable biological resources at risk of degradation and permantent loss.",
+        "threatDescription": "The Cascade-Siskiyou National Monument was established in 2000 and expanded in 2017 with the purpose of protecting the remarkable biodiversity in this area of the Cascade Range in Southern Oregon and Northern California. The Trump Administration is currently reviewing the boundaries of several National Monuments. As a result, the Cascade-Siskiyou National Monument could be reduced in size, thus putting valuable biological resources at risk of degradation and permantent loss.",
         "threatImgUrl": "https://static1.squarespace.com/static/5240c4e4e4b09577ccb58b07/5885646c1b10e356f53ec873/5885646c1b10e356f53ec877/1380839099998/Jenny_Creek2_CSNMimg12644e6937a4c02b5.jpg?format=750w",
         "threatImgCredit": "Friends of Cascade Siskiyou National Monument",
         "threatUrlReferences": [
