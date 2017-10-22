@@ -352,13 +352,15 @@
         "threatDescription": "test",
         "threatImgUrl": "",
         "threatImgCredit": "",
-        "threatUrlReferences": []
+        "threatUrlReferences": [],
+        "marker-color": "#935116",
+        "marker-symbol": "logging"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-119.1385",
-          "43.2339"
+          "-118.9676",
+          "43.2856"
         ]
       }
     }
