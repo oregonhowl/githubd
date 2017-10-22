@@ -352,12 +352,14 @@
         "threatDescription": "This is just a test",
         "threatImgUrl": "",
         "threatImgCredit": "",
-        "threatUrlReferences": []
+        "threatUrlReferences": [],
+        "marker-color": "#935116",
+        "marker-symbol": "logging"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-119.1427",
+          "-119.1424",
           "43.2357"
         ]
       }
