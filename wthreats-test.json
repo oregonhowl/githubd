@@ -349,10 +349,12 @@
       "properties": {
         "threatName": "Test",
         "threatType": "logging",
-        "threatDescription": "test",
+        "threatDescription": "test test",
         "threatImgUrl": "",
         "threatImgCredit": "",
-        "threatUrlReferences": []
+        "threatUrlReferences": [],
+        "marker-color": "#935116",
+        "marker-symbol": "logging"
       },
       "type": "Feature",
       "geometry": {
