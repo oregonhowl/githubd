@@ -347,31 +347,14 @@
     },
     {
       "properties": {
-        "threatName": "Test",
-        "threatType": "logging",
-        "threatDescription": "This is just a test",
-        "threatImgUrl": "",
-        "threatImgCredit": "",
-        "threatUrlReferences": [],
-        "marker-color": "#935116",
-        "marker-symbol": "logging"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-117.0292",
-          "42.0028"
-        ]
-      }
-    },
-    {
-      "properties": {
         "threatName": "Another test",
         "threatType": "logging",
         "threatDescription": "another test",
         "threatImgUrl": "",
         "threatImgCredit": "",
-        "threatUrlReferences": []
+        "threatUrlReferences": [],
+        "marker-color": "#935116",
+        "marker-symbol": "logging"
       },
       "geometry": {
         "type": "Point",
