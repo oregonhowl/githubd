@@ -363,6 +363,23 @@
           "42.0028"
         ]
       }
+    },
+    {
+      "properties": {
+        "threatName": "Another test",
+        "threatType": "logging",
+        "threatDescription": "another test",
+        "threatImgUrl": "",
+        "threatImgCredit": "",
+        "threatUrlReferences": []
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-124.2218",
+          "42.0121"
+        ]
+      }
     }
   ]
 }
