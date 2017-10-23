@@ -347,7 +347,7 @@
     },
     {
       "properties": {
-        "threatName": "Test",
+        "threatName": "Test-DUP-DUP",
         "threatType": "logging",
         "threatDescription": "hey",
         "threatImgUrl": "",
