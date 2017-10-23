@@ -364,6 +364,24 @@
           "42.2453"
         ]
       }
+    },
+    {
+      "properties": {
+        "threatName": "Test-DUP",
+        "threatType": "logging",
+        "threatDescription": "a ver",
+        "threatImgUrl": "",
+        "threatImgCredit": "",
+        "threatUrlReferences": []
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-117.4624",
+          "43.0748"
+        ]
+      }
     }
   ]
 }
