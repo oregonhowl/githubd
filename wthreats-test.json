@@ -349,7 +349,7 @@
       "properties": {
         "threatName": "Test",
         "threatType": "logging",
-        "threatDescription": "test test test test",
+        "threatDescription": "test test test test test",
         "threatImgUrl": "",
         "threatImgCredit": "",
         "threatUrlReferences": [],
