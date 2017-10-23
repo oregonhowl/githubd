@@ -364,6 +364,24 @@
           "41.9966"
         ]
       }
+    },
+    {
+      "properties": {
+        "threatName": "Test",
+        "threatType": "logging",
+        "threatDescription": "Another test",
+        "threatImgUrl": "",
+        "threatImgCredit": "",
+        "threatUrlReferences": []
+      },
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          "-119.1274",
+          "43.2224"
+        ]
+      }
     }
   ]
 }
