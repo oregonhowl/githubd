@@ -349,7 +349,7 @@
       "properties": {
         "threatName": "Test",
         "threatType": "logging",
-        "threatDescription": "test test",
+        "threatDescription": "test test test test",
         "threatImgUrl": "",
         "threatImgCredit": "",
         "threatUrlReferences": [],
@@ -372,7 +372,9 @@
         "threatDescription": "Another test",
         "threatImgUrl": "",
         "threatImgCredit": "",
-        "threatUrlReferences": []
+        "threatUrlReferences": [],
+        "marker-color": "#935116",
+        "marker-symbol": "logging"
       },
       "type": "Feature",
       "geometry": {
