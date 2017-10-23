@@ -360,24 +360,6 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          "-117.4215",
-          "43.0746"
-        ]
-      }
-    },
-    {
-      "properties": {
-        "threatName": "Test",
-        "threatType": "logging",
-        "threatDescription": "hey",
-        "threatImgUrl": "",
-        "threatImgCredit": "",
-        "threatUrlReferences": []
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           "-119.1080",
           "43.2096"
         ]
