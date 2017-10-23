@@ -349,26 +349,6 @@
       "properties": {
         "threatName": "Test",
         "threatType": "logging",
-        "threatDescription": "test test test test test",
-        "threatImgUrl": "",
-        "threatImgCredit": "",
-        "threatUrlReferences": [],
-        "marker-color": "#935116",
-        "marker-symbol": "logging"
-      },
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          "-117.0313",
-          "41.9966"
-        ]
-      }
-    },
-    {
-      "properties": {
-        "threatName": "Test",
-        "threatType": "logging",
         "threatDescription": "Another test",
         "threatImgUrl": "",
         "threatImgCredit": "",
